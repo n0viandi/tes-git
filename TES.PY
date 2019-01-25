@@ -1,9 +1,9 @@
 
-# v.1
+# v.2
 print('tes 123')
 print('tes 456')
 
-#checkpoint == commit
+#checkpoint == com
 #final 1.0 = commit
 
 #git add . add to stage area
@@ -12,3 +12,6 @@ print('tes 456')
 #git commit -m "*messages insert here*"
 #git log commit history
 #git log --oneline
+#git checkout *insert commit id* buatliat2 doang liatny di git log oneline
+#git checkout master kembali ke commit terakhir
+#git reset 
